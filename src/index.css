@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  font-size: 1.2rem;
+  background-color: var(--background-color);
+}
+
+/* browser scroll bar */
+
+/*::-webkit-scrollbar { width: 5px; }
+
+::-webkit-scrollbar-track { background-color: transparent; }
+
+::-webkit-scrollbar-thumb { background-color: blue ; }
+*/
